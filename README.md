@@ -1,5 +1,5 @@
 # Mmarket
-program to sell items to customers, members, staff
+Program to sell items to customers, members, staff
 
 The program will show eight items to customers, members, or staff and let them buy as much as they want. 
 The program will calculate the price of the items and give the total, discount amount, and total after discount. 
